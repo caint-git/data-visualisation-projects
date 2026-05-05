@@ -9,4 +9,4 @@ This repository contains a collection of data visualisation projects using Table
 - Built using Tableau
 - Includes interactive dashboard and cleaned dataset
 
-[View Project](./co2-emissions-dashboard)
+[View Project](./CO2-Emissions-Dashboard)
