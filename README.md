@@ -9,4 +9,4 @@ This repository contains a collection of data visualisation projects using Table
 - Built using Tableau
 - Includes interactive dashboard and cleaned dataset
 
-[View Project](./tree/CO2-Emissions-Dashboard)
+[View Project](./caint-git/data-visualisation-projects/tree/CO2-Emissions-Dashboard)
